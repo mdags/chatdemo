@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297205869203",
+    "project_id": "chatdemo-59622",
+    "storage_bucket": "chatdemo-59622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297205869203:android:08e736390fdbf7d3323b66",
+        "android_client_info": {
+          "package_name": "com.ilerleyen.ent.chatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297205869203-hjumk10fuiaq71iagscbhclvqqmlv65u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV5Lqlm_eH2SSeuzi18JOWrYvRoPYAJOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297205869203-hjumk10fuiaq71iagscbhclvqqmlv65u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
